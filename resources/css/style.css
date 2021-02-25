@@ -33,4 +33,8 @@ body{
     color: gray;   
 }
 
-
+.footer-copyright{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
